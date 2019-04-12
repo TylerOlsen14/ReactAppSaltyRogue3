@@ -1,0 +1,92 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Tyler Olsen",
+      "address": "2 south, North Pole, Russia",
+      "phoneNumber": 5,
+      "email": "T@gmail.com",
+      "postcard": false
+    },
+    {
+      "id": 2,
+      "name": "John Hamm",
+      "address": "5th East, 5th Avenue, NY, NY",
+      "phoneNumber": 45678,
+      "email": "Johnny@BabyDriver.com",
+      "postcard": true
+    },
+    {
+      "id": 3,
+      "name": "Franz Kafka",
+      "address": "Somewhere, Poland",
+      "phoneNumber": 465,
+      "email": "Gregor.Samsa@gmail.com",
+      "postcard": false
+    },
+    {
+      "id": 5,
+      "name": "Felix the Cat",
+      "address": "Who knows",
+      "phoneNumber": 6789,
+      "email": "F.Cat@gmail.com",
+      "postcard": false
+    },
+    {
+      "id": 6,
+      "name": "Tony Stark",
+      "address": "2325 South PCH, Irvine, California",
+      "phoneNumber": 911,
+      "email": "Avenger1@gmail.com",
+      "postcard": false
+    },
+    {
+      "id": 7,
+      "name": "Steve Rogers",
+      "address": "435 S 200 W, Brooklyn, New York, NY",
+      "phoneNumber": 54321,
+      "email": "StevyBoy@gmail.com",
+      "postcard": true
+    },
+    {
+      "id": 8,
+      "name": "Dr. Donald Blake",
+      "address": "1 Royal Palace, Aasgard",
+      "phoneNumber": 56742,
+      "email": "God.of.Thunder@gmail.com",
+      "postcard": false
+    },
+    {
+      "id": 9,
+      "name": "Sherlock Holmes",
+      "address": "223b Baker Street, London, UK",
+      "phoneNumber": 34521,
+      "email": "deductions@Gmail.com",
+      "postcard": true
+    },
+    {
+      "id": 10,
+      "name": "Felix Olsen",
+      "address": "435 N. 200 W., Apt. 4, SaltLakeCity, UT",
+      "phoneNumber": 5555,
+      "email": "FelixOlsen@gmail.com",
+      "postcard": false
+    },
+    {
+      "id": 54677,
+      "name": "Harry White",
+      "address": "7130 S. Griffith's Pl, Salt Lake City, UT",
+      "phoneNumber": 43321,
+      "email": "Harry.White@hotmail.com",
+      "postcard": true
+    },
+    {
+      "id": 4,
+      "name": "Bruce Banner",
+      "address": "Somewhere, Poland",
+      "phoneNumber": 4,
+      "email": "BigGreen1@gmail.com",
+      "postcard": false
+    }
+  ]
+}
