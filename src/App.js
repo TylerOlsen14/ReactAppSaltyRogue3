@@ -11,7 +11,6 @@ class App extends Component {
       <Fragment className="App">
         <Routing/>
         <Navbar/>
-        <Home/>
       </Fragment>
     );
   }
